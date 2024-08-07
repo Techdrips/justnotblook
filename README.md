@@ -1,4 +1,5 @@
 <p align="center">Cheats made by people who know how to improve something.</p>
+<p align="centre">This is a repost so shh, don't tell. </p>
 <p align="center">⚠️Keep in mind that these cheats do not contain an update checker (execpt for the userscript), reason being to prevent the GUIs from breaking. Occasionally check this repo for any updates that you might miss⚠️</p>
 <h3 align="center"><a href="https://discord.gg/8A6J234n7v">Support Server</a></h2>
 <h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">05konz Support Server</a></h2>
@@ -15,18 +16,10 @@
 - [x] Change Name ingame
 
 
-## Star History
-
-<a href="https://star-history.com/#DannyDan0167/Blooket-Cheats-Plus&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DannyDan0167/Blooket-Cheats-Plus&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DannyDan0167/Blooket-Cheats-Plus&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DannyDan0167/Blooket-Cheats-Plus&type=Date" />
- </picture>
-</a>
 
 
-[![Hits](https://hits.sh/github.com/DannyDan0167/Blooket-Cheats-Plus.svg)](https://hits.sh/github.com/DannyDan0167/Blooket-Cheats-Plus/)
+
+[![Hits](https://hits.sh/github.com/Techdrips/Blooket-Cheats-Plus.svg)](https://hits.sh/github.com/Techdrips /Blooket-Cheats-Plus/)
 
 ## Information
 
